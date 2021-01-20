@@ -1,0 +1,10 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<purity-config version="12.3.0.ga-2019-02-03">
+	<references/>
+	<component-mappings>
+		<propertyMappings/>
+	</component-mappings>
+
+<modelComment backgroundColor="255,255,180" borderColor="183,183,0" bounds="408,216,80,60" foregroundColor="51,51,51"/>
+
+</purity-config>
